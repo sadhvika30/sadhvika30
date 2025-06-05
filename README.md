@@ -1,16 +1,14 @@
-## Hi there 👋
+# Sadhvika's Portfolio!!
 
-<!--
-**sadhvika30/sadhvika30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my personal portfolio website! This project showcases my journey as a data analyst and developer, featuring my skills, projects, and professional experiences.
 
-Here are some ideas to get you started:
+## Live Site
+You can view the live version of my portfolio here: [sadhvika30.github.io](https://sadhvika30.github.io/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Built Using
+This portfolio was built using the following technologies:
+
+- **React:** The core framework used to build the UI components and manage state.
+- **Tailwind CSS:** For styling the website with utility-first CSS classes and responsive design.
+- **GitHub Pages:** To deploy and host the website, making it accessible to the public.
+
